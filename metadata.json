@@ -1,0 +1,6 @@
+{
+  "name": "VS Code Web Studio",
+  "description": "An Android Jetpack Compose code editor and IDE workbench with multi-tab syntax-highlighted editing, file explorer, global search, Git diff & source control, interactive terminal, live preview, theme switcher, and optional Supabase cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

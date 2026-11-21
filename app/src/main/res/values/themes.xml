@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.VSCodeStudio" parent="android:Theme.Material.NoActionBar" />
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VS Code Web Studio</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="title_settings">Settings</string>
+    <string name="cd_app_home">VS Code Web Studio Home</string>
+    <string name="cd_command_palette">Search files or run commands</string>
+    <string name="cd_cloud_sync">Supabase Cloud Sync</string>
+    <string name="cd_toggle_sidebar">Toggle Primary Side Bar</string>
+    <string name="cd_toggle_panel">Toggle Bottom Panel</string>
+    <string name="cd_split_editor">Split Editor</string>
+    <string name="cd_toggle_theme">Toggle Light/Dark Theme</string>
+    <string name="cd_back">Go Back</string>
+    <string name="cd_forward">Go Forward</string>
+    <string name="cd_notifications">Notifications</string>
+    <string name="cd_close_tab">Close Tab</string>
+</resources>
